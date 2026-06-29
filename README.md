@@ -1,6 +1,6 @@
 # PROYECTO INTEGRADOR - LÓGICA DE PROGRAMACIÓN
 
-## Nombre del Proyecto
+# Nombre del Proyecto
 SISTEMA DE CIBERSEGURIDAD: GENERADOR DE CONTRASEÑAS
 
 ## Integrante
